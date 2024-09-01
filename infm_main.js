@@ -1,5 +1,6 @@
 var this_page_information = {
     page_text_lengh: 0,
+        page_about: "",
         type: "first_of_all",
         level: "A-1",
         read_time: "0min",
@@ -9,6 +10,7 @@ var this_page_information = {
 }
 
 /*后期更改*/
+page_about = "";
 this_page_information.history_changer = [
     "",
     "",
