@@ -1,7 +1,7 @@
 var this_page_information = {
     page_text_lengh: 0,
         page_about: "",
-        type: "first_all",
+        type: "nomain",
         level: "A-3",
         read_time: "0min",
         last_change_time: "",
